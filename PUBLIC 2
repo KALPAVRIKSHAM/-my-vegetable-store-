@@ -1,3 +1,6 @@
 your-repo/
 ├── google12345abcde.html
 └── (other files)
+git add google12345abcde.html
+git commit -m "Add Google verification file"
+git push origin main
